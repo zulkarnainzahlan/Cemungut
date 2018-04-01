@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.aulia.aulia_1202151364_modul6.RecentFragment">
+    tools:context="com.deqode.android.zulkarnains_1202141255_modul6.RecentFragment">
 
    <android.support.v7.widget.RecyclerView
     android:id="@+id/recentRecycler"
