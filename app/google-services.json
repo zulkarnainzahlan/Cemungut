@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "725024910135",
+    "firebase_url": "https://modul6-10ec1.firebaseio.com",
+    "project_id": "modul6-10ec1",
+    "storage_bucket": "modul6-10ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725024910135:android:753ca7c91752a05b",
+        "android_client_info": {
+          "package_name": "com.deqode.android.zulkarnains_1202141255_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725024910135-qo679ic63co4f6irsunkfcgi05q10m21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXWOnQTdHp0pTgJ_abMTK_Qkatlsa1AM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
